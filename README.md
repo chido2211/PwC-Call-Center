@@ -1,6 +1,7 @@
 # PwC-Call-Center
 Power BI Dashboard 
-### Dashboard Link :https://t3hx5-my.sharepoint.com/:u:/g/personal/chido_t3hx5_onmicrosoft_com/EW-zWj59fpJDvePDV7Tk7t0BCXUOV4aIz_HK2Q4XzfBcYw?e=2wKEKc
+## Dashboard Link
+[PwC-Call-Center.pbix](PwC-Call-Center.pbix)
 
 ## Problem Statement
 The Telecom Marketing Dashboard aims to provide insights into customer satisfaction and operational performance for a major telecom company. By analyzing various KPIs and metrics, the dashboard assists the company in understanding customer preferences and areas for improvement in their services.
